@@ -3,9 +3,12 @@
 ## Overview
 A fully playable 3D shooter-platformer. Inspired by Ratchet &amp; Clank and built in a C++ based platform for the PlayStation, this project focuses on gameplay systems, smart enemy AI, stunning VFX, optimal level design, logic optimization, and player feedback loops. Commended by the official Insomniac Games.
 
-## Demo
-🎮 Gameplay Video: [https://www.youtube.com/watch?v=bNl2orp5FQc]
-📸 Screenshots: See /media folder
+## SHOWCASES
+🎮 Official Gameplay  Video: [https://www.youtube.com/watch?v=y5cUio3Be_M&t=3s]
+(DISCLAIMER: Usage of AI voices. Placeholder while awaiting human voice recordings.)
+
+🎮 Boss Showcae: [https://www.youtube.com/watch?v=bNl2orp5FQc]
+
 
 ## Technical Focus
 - State-based enemy AI
