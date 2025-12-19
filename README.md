@@ -26,37 +26,37 @@ A fully playable 3D shooter-platformer. Inspired by Ratchet &amp; Clank and buil
 -Helipack movement (Glide mechanic)
 
 ### Combat System
-* #### Weapon state machine
+* Weapon state machine
   * One-handed or Two-Handed?
   * IsPlayerIdle?
   * ShotsFired?
   
-#### 12 Creative weapons offering distinct and unique playstyles
-* OmniPistol (Pistol/Primary)
-*Shatterbomb (Grenade)
-*Enforcer (Shotgun)
-*BOOM!Box (Utility | Shockwave)
-*FlareMonger (Rocket Launcher)
-*MagmaHound (Utility | Lava)
-*A.I.M.Bot (Utility | Minion)
-*HornetRay (Target)
-*NovaTalons (Melee)
-*Plasmapeater (Shock)
-*SnapShot (Immobilizer)
-*RYNO (RYNO)
+* 12 Creative weapons offering distinct and unique playstyles
+ * OmniPistol (Pistol/Primary)
+ * Shatterbomb (Grenade)
+ * Enforcer (Shotgun)
+ * BOOM!Box (Utility | Shockwave)
+ * FlareMonger (Rocket Launcher)
+ * MagmaHound (Utility | Lava)
+ * A.I.M.Bot (Utility | Minion)
+ * HornetRay (Target)
+ * NovaTalons (Melee)
+ * Plasmapeater (Shock)
+ * SnapShot (Immobilizer)
+ * RYNO (RYNO)
 
-#### Dodge mechanics that are present in R&C: Rift Apart. (Showcases animation skills and ability to recognize laws of animation and replicate AAA quality and fluidity)
+* Dodge mechanics that are present in R&C: Rift Apart. (Showcases animation skills and ability to recognize laws of animation and replicate AAA quality and fluidity)
 
-#### On-Field pgrade System
-*Usage of a weapon increases the weapon level. Level 1 to 4. 
-*Damage is increased by 5% for each level. 
+* On-Field pgrade System
+ * Usage of a weapon increases the weapon level. Level 1 to 4. 
+ * Damage is increased by 5% for each level. 
  
-#### Vendor and Upgrade System
-*Purchase weapons from vendor.
-*Upgrade attributes of the weapon at the weapon vendor. 
-*Can go down 3 paths, which upgrade the weapons' key attributes (fire rate, radius, ammo)
-*When the attribute is maxed, the weapon gains a special perk.
-*Damage is increased by 5% for every level. 
+* Vendor and Upgrade System
+ * Purchase weapons from vendor.
+ * Upgrade attributes of the weapon at the weapon vendor. 
+ * Can go down 3 paths, which upgrade the weapons' key attributes (fire rate, radius, ammo)
+ * When the attribute is maxed, the weapon gains a special perk.
+ * Damage is increased by 5% for every level. 
 
 ### Level Design
 - Engaging environments that tell stories and never stay static.
