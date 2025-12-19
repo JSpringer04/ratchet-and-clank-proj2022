@@ -26,13 +26,13 @@ A fully playable 3D shooter-platformer. Inspired by Ratchet &amp; Clank and buil
 -Helipack movement (Glide mechanic)
 
 ### Combat System
-#### Weapon state machine
-  *One-handed or Two-Handed?
-  *IsPlayerIdle?
-  *ShotsFired?
+* #### Weapon state machine
+  * One-handed or Two-Handed?
+  * IsPlayerIdle?
+  * ShotsFired?
   
 #### 12 Creative weapons offering distinct and unique playstyles
-*OmniPistol (Pistol/Primary)
+* OmniPistol (Pistol/Primary)
 *Shatterbomb (Grenade)
 *Enforcer (Shotgun)
 *BOOM!Box (Utility | Shockwave)
