@@ -32,7 +32,7 @@ A fully playable 3D shooter-platformer. Inspired by Ratchet &amp; Clank and buil
   *ShotsFired?
   
 -12 Creative weapons offering distinct and unique playstyles
-  *OmniPistol (Pistol/Primary)
+⋅⋅⋅⋅*OmniPistol (Pistol/Primary)
   *Shatterbomb (Grenade)
   *Enforcer (Shotgun)
   *BOOM!Box (Utility | Shockwave)
